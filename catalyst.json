@@ -1,0 +1,6 @@
+{
+  "client": {
+    "source": "movie-watchlist",
+    "plugin": "zcatalyst-cli-plugin-react"
+  }
+}

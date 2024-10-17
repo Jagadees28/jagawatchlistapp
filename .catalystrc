@@ -1,0 +1,30 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "9588000000015051",
+      "name": "Movie-WatchList",
+      "domain": {
+        "id": "50022676392",
+        "name": "movie-watchlist-60032670741.development"
+      },
+      "timezone": "Asia/Kolkata",
+      "env": [
+        {
+          "idx": 1,
+          "id": "60032670741",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}
